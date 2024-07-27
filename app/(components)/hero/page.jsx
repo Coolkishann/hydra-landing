@@ -5,6 +5,7 @@ import ProductsSection from './productsection'
 import Feature from './feature'
 import Faq from './faq'
 import Footer from './footer'
+import Roadmap from './roadmap'
 
 const page = () => {
   return (
@@ -14,6 +15,7 @@ const page = () => {
 <HeroSection/>
 <ProductsSection/>
 <Feature/>
+<Roadmap/>
 <Faq/>
 <Footer/>
     </>
